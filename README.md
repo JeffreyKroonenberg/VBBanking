@@ -1,11 +1,11 @@
-#VB Banking
+VB Banking
 Is een fixed versie voor esx
 
-#Versie
+Versie
 1.0
 
-#updates
+updates
 Zie discord: https://discord.gg/byVUZwFwa6
 
-#Vertaling 
+Vertaling 
 Komt nog
