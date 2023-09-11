@@ -2,7 +2,7 @@ VB Banking
 Is een fixed versie voor esx
 
 Versie
-1.0
+1.1
 
 updates
 Zie discord: https://discord.gg/byVUZwFwa6
